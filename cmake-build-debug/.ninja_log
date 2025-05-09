@@ -1,0 +1,6 @@
+# ninja log v6
+48	213	7684874344758188	CMakeFiles/QuineMcCluskey_Simulator.dir/term.cpp.obj	e819e95c1378837
+2	603	7684874344291376	CMakeFiles/QuineMcCluskey_Simulator.dir/implicant.cpp.obj	a8af2cd2e7b86a7f
+17	683	7684874344448838	CMakeFiles/QuineMcCluskey_Simulator.dir/main.cpp.obj	604e8f13b845e065
+33	2144	7684874344603170	CMakeFiles/QuineMcCluskey_Simulator.dir/QuineMcCluskey.cpp.obj	ec7cf086f10b2c4b
+2144	2800	7684874365707040	QuineMcCluskey_Simulator.exe	dc8a320a48d5ae82
